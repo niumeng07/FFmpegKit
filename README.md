@@ -14,7 +14,7 @@ It includes scripts to build `FFmpeg` native libraries, three executable product
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/kingslay/FFmpegKit.git", .branch("main"))
+    .package(url: "https://github.com/niumeng07/FFmpegKit.git", .branch("main"))
 ]
 ```
 
