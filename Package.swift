@@ -106,11 +106,7 @@ let package = Package(
             ]
         ),
         .systemLibrary(
-            name: "SDL2",
-            pkgConfig: "sdl2",
-            providers: [
-                .brew(["sdl2"]),
-            ]
+            name: "SDL2"
         ),
 //        .target(
 //            name: "libavutil",
